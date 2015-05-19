@@ -1,0 +1,13 @@
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\EricAllen_Logger.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\EricAllen_Logger.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\Interfaces.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\LogThis.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\Interfaces.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\LogThis.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\obj\Debug\EricAllen_Logger.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\obj\Debug\EricAllen_Logger.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\obj\Debug\EricAllen_Logger.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\PaulGothreau_Logger.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\log4net.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\PaulGothreau_Logger.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\EricAllen_Logger\bin\Debug\log4net.xml

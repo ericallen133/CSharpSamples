@@ -1,0 +1,7 @@
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\bin\Debug\MazeGame.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\obj\Debug\MazeGame.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\obj\Debug\MazeGame.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.Cache

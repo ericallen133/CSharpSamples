@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LogThis</name>
+    </assembly>
+    <members>
+        <member name="T:LogThis.Log">
+            <summary>
+            Formats and logs the given information.
+            Use Log.Register() to register a new format and Log.This() to log something.
+            </summary>
+        </member>
+        <member name="F:LogThis.Log._fileHandler">
+            <summary>
+            Handles file writing.
+            </summary>
+        </member>
+        <member name="F:LogThis.Log._formats">
+            <summary>
+            Registered formats.
+            </summary>
+        </member>
+        <member name="F:LogThis.Log._formatsLock">
+            <summary>
+            Format collection lock.
+            </summary>
+        </member>
+        <member name="F:LogThis.Log._longestFormatName">
+            <summary>
+            The longest registered format name length.
+            Used for calculating spacing when putting the format's name in the log.
+            </summary>
+        </member>
+        <member name="M:LogThis.Log.#cctor">
+            <summary>
+            Ctor.
+            </summary>
+        </member>
+        <member name="M:LogThis.Log.This(System.String,System.Object[])">
+            <summary>
+            Formats the given information and logs it.
+            If the format doesn't exists it does nothing.
+            </summary>
+            <param name="formatName">Name of the registered format to use</param>
+            <param name="args">Arguments used when formating</param>
+            <returns>True if the format exists and the logging was made, false otherwise.</returns>
+        </member>
+        <member name="M:LogThis.Log.Register(System.String,System.String)">
+            <summary>
+            Register a new log format.
+            The given format is used with string.Format; for further format info refer to it's documentation.
+            </summary>
+            <param name="formatName">Format's name</param>
+            <param name="format">The format (optional)</param>
+        </member>
+        <member name="M:LogThis.Log.Unregister(System.String)">
+            <summary>
+            Unregisters the given format.
+            </summary>
+            <param name="formatName">Format's name</param>
+            <returns>True if the format was found and unregistered, false otherwise.</returns>
+        </member>
+        <member name="M:LogThis.Log.UnregisterAll">
+            <summary>
+            Unregister all formats.
+            </summary>
+        </member>
+        <member name="M:LogThis.Log.Format(System.DateTime,System.String,System.String,System.Object[])">
+            <summary>
+            Formats the given arguments and returns it.
+            </summary>
+            <param name="date">The date to be included</param>
+            <param name="label">Format's name</param>
+            <param name="format">Format</param>
+            <param name="args">Format's arguments</param>
+            <returns>The formatted output</returns>
+        </member>
+        <member name="T:LogThis.FileHandler">
+            <summary>
+            Handles file writing.
+            </summary>
+        </member>
+        <member name="F:LogThis.FileHandler._directory">
+            <summary>
+            (Local) path of the directory of the log files.
+            </summary>
+        </member>
+        <member name="F:LogThis.FileHandler._streams">
+            <summary>
+            Open streams (values) and their respective dates (keys).
+            </summary>
+        </member>
+        <member name="F:LogThis.FileHandler._streamLock">
+            <summary>
+            Stream collection lock.
+            </summary>
+        </member>
+        <member name="M:LogThis.FileHandler.#ctor">
+            <summary>
+            Register an event handler to close the opened streams when the process exits.
+            </summary>
+        </member>
+        <member name="M:LogThis.FileHandler.Write(System.DateTime,System.String)">
+            <summary>
+            Asynchronously rites the passed content to the correspondent file.
+            The file used is determined by the content's date.
+            </summary>
+            <param name="date">Content's date</param>
+            <param name="content">Content to be written</param>
+        </member>
+        <member name="M:LogThis.FileHandler.DeleteOldFiles">
+            <summary>
+            Deletes log files older than 10 days.
+            </summary>
+        </member>
+        <member name="M:LogThis.FileHandler.ClosePastStreams">
+            <summary>
+            Closes past (older than today) open streams.
+            </summary>
+        </member>
+        <member name="M:LogThis.FileHandler.CloseAllStreams">
+            <summary>
+            Closes all open streams.
+            </summary>
+        </member>
+        <member name="M:LogThis.FileHandler.GetStream(System.DateTime)">
+            <summary>
+            Gets an open stream.
+            This method DOESN'T lock the stream collection (make sure the caller does).
+            </summary>
+            <param name="date">Stream's date</param>
+            <returns>An open stream</returns>
+        </member>
+    </members>
+</doc>

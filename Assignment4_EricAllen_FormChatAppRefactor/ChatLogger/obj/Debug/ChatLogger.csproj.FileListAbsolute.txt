@@ -1,0 +1,17 @@
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\obj\Debug\ChatLogger.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\ChatLogger.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\ChatLogger.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Interfaces.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Interfaces.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\obj\Debug\ChatLogger.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\obj\Debug\ChatLogger.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Ninject.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\Ninject.xml
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\LogThis.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment4_EricAllen_FormChatAppRefactor\ChatLogger\bin\Debug\LogThis.pdb

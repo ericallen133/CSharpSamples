@@ -1,0 +1,9 @@
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\obj\Debug\MazeUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\bin\Debug\MazeUnitTest.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\bin\Debug\MazeUnitTest.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\bin\Debug\Assignment3_EricAllen_MazeGame.exe
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\bin\Debug\MazeGame.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\bin\Debug\Assignment3_EricAllen_MazeGame.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\bin\Debug\MazeGame.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\obj\Debug\MazeUnitTest.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\MazeUnitTest\obj\Debug\MazeUnitTest.pdb

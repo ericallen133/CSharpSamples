@@ -1,0 +1,7 @@
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\obj\Debug\ChatLib.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\bin\Debug\ChatLogger.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment2_EricAllen_FormChatApp\ChatLib\bin\Debug\ChatLogger.pdb

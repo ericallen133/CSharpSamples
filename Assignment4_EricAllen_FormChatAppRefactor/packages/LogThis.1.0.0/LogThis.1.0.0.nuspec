@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>LogThis</id>
+    <version>1.0.0</version>
+    <title>LogThis</title>
+    <authors>Talles L &lt;talleslasmar@gmail.com&gt;</authors>
+    <owners>Talles L &lt;talleslasmar@gmail.com&gt;</owners>
+    <projectUrl>https://github.com/tallesl/LogThis</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/tallesl/LogThis/master/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A configless .NET file logger.
+
+Most of the time I don't need a really sophisticated file logger. And I also got tired of configuring the same thing for log4net over and over again.
+
+This is my take on logging.</description>
+    <tags>log this file logger configless</tags>
+  </metadata>
+</package>

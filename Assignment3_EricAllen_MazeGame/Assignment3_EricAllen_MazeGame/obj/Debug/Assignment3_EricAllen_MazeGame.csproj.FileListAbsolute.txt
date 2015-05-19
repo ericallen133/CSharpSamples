@@ -1,0 +1,11 @@
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\bin\Debug\Assignment3_EricAllen_MazeGame.exe.config
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\bin\Debug\Assignment3_EricAllen_MazeGame.exe
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\bin\Debug\Assignment3_EricAllen_MazeGame.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\bin\Debug\MazeGame.dll
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\obj\Debug\Assignment3_EricAllen_MazeGame.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\obj\Debug\Assignment3_EricAllen_MazeGame.Form1.resources
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\obj\Debug\Assignment3_EricAllen_MazeGame.Properties.Resources.resources
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\obj\Debug\Assignment3_EricAllen_MazeGame.csproj.GenerateResource.Cache
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\obj\Debug\Assignment3_EricAllen_MazeGame.exe
+C:\Users\Dave\Source\Workspaces\prog2200\Assignment3_EricAllen_MazeGame\Assignment3_EricAllen_MazeGame\obj\Debug\Assignment3_EricAllen_MazeGame.pdb

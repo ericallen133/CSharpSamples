@@ -1,0 +1,6 @@
+2/10/2015 9:46:02 PM :Connected to server on port 13000, and ip 127.0.0.1
+
+2/10/2015 9:46:13 PM :Connected to server on port 13000, and ip 127.0.0.1
+
+2/10/2015 9:46:19 PM :Disconnected from server
+

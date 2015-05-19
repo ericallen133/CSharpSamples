@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2_EricAllen_FormChatApp", "Assignment2_EricAllen_FormChatApp\Assignment2_EricAllen_FormChatApp.csproj", "{272A9E48-063A-40FD-8DC8-4EED86308C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLogger", "ChatLogger\ChatLogger.csproj", "{27E0F711-DF1E-4364-9367-1DCCBA238CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLib", "ChatLib\ChatLib.csproj", "{B2D74B21-F909-4EC9-9163-31C6905D7FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B25059C7-808E-4996-A4FE-750963117124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricAllen_Logger", "EricAllen_Logger\EricAllen_Logger.csproj", "{77F84B36-A244-4142-98C0-CAE4381CF450}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://m0261355.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Assignment2_EricAllen_FormChatApp\\Assignment2_EricAllen_FormChatApp.csproj
+		SccProjectName1 = Assignment2_EricAllen_FormChatApp
+		SccLocalPath1 = Assignment2_EricAllen_FormChatApp
+		SccProjectUniqueName2 = ChatLogger\\ChatLogger.csproj
+		SccProjectName2 = ChatLogger
+		SccLocalPath2 = ChatLogger
+		SccProjectUniqueName3 = ChatLib\\ChatLib.csproj
+		SccProjectName3 = ChatLib
+		SccLocalPath3 = ChatLib
+		SccProjectUniqueName4 = Interfaces\\Interfaces.csproj
+		SccProjectName4 = Interfaces
+		SccLocalPath4 = Interfaces
+		SccProjectUniqueName5 = EricAllen_Logger\\EricAllen_Logger.csproj
+		SccProjectName5 = EricAllen_Logger
+		SccLocalPath5 = EricAllen_Logger
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		debug2|Any CPU = debug2|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272A9E48-063A-40FD-8DC8-4EED86308C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A9E48-063A-40FD-8DC8-4EED86308C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272A9E48-063A-40FD-8DC8-4EED86308C32}.debug2|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A9E48-063A-40FD-8DC8-4EED86308C32}.debug2|Any CPU.Build.0 = Debug|Any CPU
+		{272A9E48-063A-40FD-8DC8-4EED86308C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272A9E48-063A-40FD-8DC8-4EED86308C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E0F711-DF1E-4364-9367-1DCCBA238CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E0F711-DF1E-4364-9367-1DCCBA238CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E0F711-DF1E-4364-9367-1DCCBA238CE5}.debug2|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E0F711-DF1E-4364-9367-1DCCBA238CE5}.debug2|Any CPU.Build.0 = Debug|Any CPU
+		{27E0F711-DF1E-4364-9367-1DCCBA238CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E0F711-DF1E-4364-9367-1DCCBA238CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D74B21-F909-4EC9-9163-31C6905D7FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D74B21-F909-4EC9-9163-31C6905D7FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D74B21-F909-4EC9-9163-31C6905D7FE4}.debug2|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D74B21-F909-4EC9-9163-31C6905D7FE4}.debug2|Any CPU.Build.0 = Debug|Any CPU
+		{B2D74B21-F909-4EC9-9163-31C6905D7FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D74B21-F909-4EC9-9163-31C6905D7FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25059C7-808E-4996-A4FE-750963117124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25059C7-808E-4996-A4FE-750963117124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25059C7-808E-4996-A4FE-750963117124}.debug2|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25059C7-808E-4996-A4FE-750963117124}.debug2|Any CPU.Build.0 = Debug|Any CPU
+		{B25059C7-808E-4996-A4FE-750963117124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25059C7-808E-4996-A4FE-750963117124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F84B36-A244-4142-98C0-CAE4381CF450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F84B36-A244-4142-98C0-CAE4381CF450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F84B36-A244-4142-98C0-CAE4381CF450}.debug2|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F84B36-A244-4142-98C0-CAE4381CF450}.debug2|Any CPU.Build.0 = Debug|Any CPU
+		{77F84B36-A244-4142-98C0-CAE4381CF450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F84B36-A244-4142-98C0-CAE4381CF450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
